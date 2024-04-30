@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HWT Artz W00 Regular';
+    src: url('https://db.onlinewebfonts.com/t/65923d225f2e78842d14d51023161b8e.eot');
+    src: url('https://db.onlinewebfonts.com/t/65923d225f2e78842d14d51023161b8e.eot?#iefix') format('embedded-opentype'),
+         url('https://db.onlinewebfonts.com/t/65923d225f2e78842d14d51023161b8e.woff2') format('woff2'),
+         url('https://db.onlinewebfonts.com/t/65923d225f2e78842d14d51023161b8e.woff') format('woff'),
+         url('https://db.onlinewebfonts.com/t/65923d225f2e78842d14d51023161b8e.ttf') format('truetype'),
+         url('https://db.onlinewebfonts.com/t/65923d225f2e78842d14d51023161b8e.svg#HWT Artz W00 Regular') format('svg');
+}
